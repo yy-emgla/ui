@@ -1,6 +1,3 @@
-# FDK UI Components
-UI Components for Mobile at JuFan.
-
 ## Introduction
 
 ```bash
@@ -61,7 +58,7 @@ UI Components for Mobile at JuFan.
 
 ```json
 dependencies: {
-  "fdk-ui": "git+http://git.jufandev.com/fe/UI.git"
+  "fdk-ui": "git+git@github.com:yy-emgla/ui.git"
 }
 ```
 
@@ -92,14 +89,3 @@ commit信息格式为：`<type>(<scope>): <subject>`
   2.  scope — 修改文件的范围，可选，包括但不限于 Button、CheckBox 等。
   3. subject — 用一句话清楚的描述这次提交做了什么。
 ```
-
-## TODO
-
-- [ ] 问题修复
-- [ ] 完善文档
-- [ ] 高阶组件
-- [ ] 业务组件
-- [ ] 功能扩展
-- [ ] 测试用例
-- [ ] 自定义主题
-
