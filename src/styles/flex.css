@@ -1,0 +1,28 @@
+.weui-flex {
+  width: 100%;
+  text-align: left;
+  box-align: center;
+  align-items: center;
+  .weui-flex__item {
+    flex: 1;
+    min-width: 20px;
+    width: 0%;
+    &:first-child {
+      margin-left: 0!important;
+      margin-top: 0!important;
+    }
+  }
+}
+.ui-flex-col
+.ui-flex-row {
+  box-direction: row;
+  box-orient: horizontal;
+  flex-direction: row;
+}
+.ui-flex-col {
+  box-orient: vertical;
+  flex-direction: column;
+  > .weui-flex__item {
+    width: 100%;
+  }
+}

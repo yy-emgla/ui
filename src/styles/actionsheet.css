@@ -1,0 +1,17 @@
+@import './common/variable';
+
+.ui-actionsheet-menu-primary {
+  color: $actionsheet-label-primary-color;
+}
+
+.ui-actionsheet-menu-warn {
+  color: $actionsheet-label-warn-color;
+}
+
+.ui-actionsheet-menu-default {
+  color: $actionsheet-label-default-color;
+}
+
+.ui-actionsheet-menu-disabled {
+  color: $actionsheet-label-disabled-color;
+}

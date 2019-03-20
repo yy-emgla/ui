@@ -1,0 +1,39 @@
+/**
+ * Entry of all component's style
+ */
+
+/* base */
+@import 'base';
+@import 'animate';
+
+/* common components */
+@import 'cell';
+@import 'container';
+@import 'footer';
+@import 'gallery';
+@import 'header';
+@import 'tip';
+@import 'grid';
+
+/* form components */
+@import 'button';
+@import 'checkbox';
+@import 'flex';
+@import 'input';
+@import 'radio';
+@import 'search';
+@import 'selectinline';
+@import 'switch';
+
+/* action components */
+@import 'actionsheet';
+@import 'picker';
+@import 'popup';
+@import 'toast';
+@import 'pull-refresh';
+
+/* business components */
+@import 'swiper';
+@import 'tab';
+@import 'tabbar';
+

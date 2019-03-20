@@ -1,0 +1,16 @@
+.weui-cells_checkbox > label > * {
+  pointer-events: none;
+}
+
+.ui-checkbox-disabled .ui-checkbox-icon-checked:before {
+  opacity: 0.5;
+}
+
+.ui-checkbox-label-left {
+  flex-direction: row-reverse;
+}
+
+.ui-checkbox-desc {
+  color: #999;
+  font-size: 14px;
+}

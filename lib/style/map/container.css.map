@@ -1,0 +1,1 @@
+{"version":3,"sources":["container.css"],"names":[],"mappings":"AAAA,UACE,oBAAc,AAAd,qBAAc,AAAd,aAAc,AACd,4BAAuB,AAAvB,6BAAuB,AAAvB,8BAAuB,AAAvB,qBAAuB,CACxB,AAED,iBACE,mBAAQ,AAAR,eAAQ,AAAR,MAAQ,CACT","file":"../container.css","sourcesContent":[".weui-tab {\r\n  display: flex;\r\n  flex-direction: column;\r\n}\r\n\r\n.weui-tab__panel {\r\n  flex: 1;\r\n}\r\n"]}

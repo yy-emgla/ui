@@ -1,0 +1,13 @@
+.weui-tabbar {
+  position: static;
+}
+.weui-tabbar__icon {
+  position: relative;
+}
+.weui-tabbar__icon > .weui-badge {
+  position: absolute;
+  top: -5px;
+  left: 100%;
+  transform: translateX(-50%);
+  z-index: 101;
+}

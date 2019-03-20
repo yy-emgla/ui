@@ -1,0 +1,8 @@
+.weui-tab {
+  display: flex;
+  flex-direction: column;
+}
+
+.weui-tab__panel {
+  flex: 1;
+}

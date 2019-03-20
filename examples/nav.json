@@ -1,0 +1,214 @@
+{
+  "zh-CN": [{
+    "title": "quickstart 准备开始",
+    "path": "/index"
+  }, {
+    "name": "basic 基础组件",
+    "list": [{
+      "title": "Article 文章",
+      "path": "/article"
+    }, {
+      "title": "Badge 徽章",
+      "path": "/badge"
+    }, {
+      "title": "Flex 布局",
+      "path": "/flex"
+    }, {
+      "title": "Footer 页脚",
+      "path": "/footer"
+    }, {
+      "title": "Grid 九宫格",
+      "path": "/grid"
+    }, {
+      "title": "Icons 图标",
+      "path": "/icons"
+    }, {
+      "title": "Loadmore 加载更多",
+      "path": "/loadmore"
+    }, {
+      "title": "Panel 面板",
+      "path": "/panel"
+    }, {
+      "title": "Preview 表单预览",
+      "path": "/preview"
+    }, {
+      "title": "Progress 进度条",
+      "path": "/progress"
+    }, {
+      "title": "Swiper 轮播",
+      "path": "/swiper"
+    }, {
+      "title": "Tab 选项卡",
+      "path": "/tab"
+    }, {
+      "title": "TabBar 导航条",
+      "path": "/tabbar"
+    }]
+  }, {
+    "name": "form 表单",
+    "list": [{
+      "title": "Button 按钮",
+      "path": "/button"
+    }, {
+      "title": "Checkbox 复选按钮",
+      "path": "/checkbox"
+    }, {
+      "title": "Cell 单行",
+      "path": "/cell"
+    }, {
+      "title": "Datetime 时间",
+      "path": "/datetime"
+    }, {
+      "title": "Input 表单输入",
+      "path": "/input"
+    }, {
+      "title": "List 列表",
+      "path": "/list"
+    }, {
+      "title": "Radio 单选按钮",
+      "path": "/radio"
+    }, {
+      "title": "SearchBar 搜索栏",
+      "path": "/searchbar"
+    }, {
+      "title": "SelectInline 行内选择器",
+      "path": "/selectinline"
+    }, {
+      "title": "Slider 滑块",
+      "path": "/slider"
+    }, {
+      "title": "Switch 切换按钮",
+      "path": "/switch"
+    }, {
+      "title": "Uploader 上传",
+      "path": "/uploader"
+    }]
+  }, {
+    "name": "notice 操作反馈",
+    "list": [{
+      "title": "ActionSheet 弹出式菜单",
+      "path": "/actionsheet"
+    }, {
+      "title": "Dialog 对话框",
+      "path": "/dialog"
+    }, {
+      "title": "Msg 操作提示页",
+      "path": "/msg"
+    }, {
+      "title": "Picker 选择器",
+      "path": "/picker"
+    }, {
+      "title": "Popup 弹出框",
+      "path": "/popup"
+    }, {
+      "title": "Toast 弹出式提示",
+      "path": "/toast"
+    }, {
+      "title": "PullRefresh 下拉刷新",
+      "path": "/pullrefresh"
+    }]
+  }],
+  "en-US": [{
+    "title": "quickstart",
+    "path": "/index"
+  }, {
+    "name": "basic",
+    "list": [{
+      "title": "Article",
+      "path": "/article"
+    }, {
+      "title": "Badge",
+      "path": "/badge"
+    }, {
+      "title": "Flex",
+      "path": "/flex"
+    }, {
+      "title": "Footer",
+      "path": "/footer"
+    }, {
+      "title": "Grid",
+      "path": "/grid"
+    }, {
+      "title": "Icons",
+      "path": "/icons"
+    }, {
+      "title": "Loadmore",
+      "path": "/loadmore"
+    }, {
+      "title": "Panel",
+      "path": "/panel"
+    }, {
+      "title": "Preview",
+      "path": "/preview"
+    }, {
+      "title": "Progress",
+      "path": "/progress"
+    }, {
+      "title": "Swiper",
+      "path": "/swiper"
+    }, {
+      "title": "Tab",
+      "path": "/tab"
+    }, {
+      "title": "TabBar",
+      "path": "/tabbar"
+    }]
+  }, {
+    "name": "form",
+    "list": [{
+      "title": "Button",
+      "path": "/button"
+    }, {
+      "title": "Checkbox",
+      "path": "/checkbox"
+    }, {
+      "title": "Cell",
+      "path": "/cell"
+    }, {
+      "title": "Input",
+      "path": "/input"
+    }, {
+      "title": "List",
+      "path": "/list"
+    }, {
+      "title": "Radio",
+      "path": "/radio"
+    }, {
+      "title": "SearchBar",
+      "path": "/searchbar"
+    }, {
+      "title": "SelectInline",
+      "path": "/selectinline"
+    }, {
+      "title": "Slider",
+      "path": "/slider"
+    }, {
+      "title": "Switch",
+      "path": "/switch"
+    }, {
+      "title": "Uploader",
+      "path": "/uploader"
+    }]
+  }, {
+    "name": "notice",
+    "list": [{
+      "title": "ActionSheet",
+      "path": "/actionsheet"
+    }, {
+      "title": "Dialog",
+      "path": "/dialog"
+    }, {
+      "title": "Msg",
+      "path": "/msg"
+    }, {
+      "title": "Picker",
+      "path": "/picker"
+    }, {
+      "title": "Toast",
+      "path": "/toast"
+    }, {
+      "title": "PullRefresh",
+      "path": "/pullrefresh"
+    }]
+  }]
+}

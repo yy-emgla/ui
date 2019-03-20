@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer.css"],"names":[],"mappings":"AAAA,aACE,oBAAkD,AAClD,eAAgB,AAChB,wBAA0B,CAC3B,AAED,uBACE,aAAe,CAChB","file":"../footer.css","sourcesContent":[".weui-footer {\r\n  font-family: fantasy, monospace, Consolas, Monaco;\r\n  padding: 10px 0;\r\n  background-color: #f4f4f2;\r\n}\r\n\r\n.weui-footer .iconfont {\r\n  font-size: 2em;\r\n}\r\n"]}

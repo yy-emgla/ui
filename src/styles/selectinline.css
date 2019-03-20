@@ -1,0 +1,37 @@
+.ui-selected-inline > label > * {
+  pointer-events: none;
+}
+
+.ui-selected-inline {
+
+  display: flex;
+  align-item: center;
+  .ui-select-bd{
+  }
+  .b-text {
+    color: #999;
+    font-size: 14px;
+  }
+  & .weui-check+.ui-select-bd .ui-select-option{
+      white-space: nowrap;
+      vertical-align: middle;
+      padding: 0 4px;
+      vertical-align: center;
+      text-align: center;
+      outline: none;
+      font-size: 16px;
+      line-height: 26px;
+      color: #606266;
+  }
+  & .weui-check+.ui-select-bd .ui-select-style{
+      margin-top: -1px;
+      margin-bottom: -1px;
+      border-radius: 3px;
+  }
+  & .weui-check:checked+.ui-select-bd .ui-select-option{
+    background: #09bb07;
+    color: white;
+    border-radius: 3px;
+   }
+}
+

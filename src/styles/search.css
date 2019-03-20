@@ -1,0 +1,38 @@
+.ui-search-fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 5;
+  background: rgba(255, 255, 255, 1);
+  backdrop-filter: blur(5px);
+}
+.ui-search-box {
+  width: 100%;
+}
+.weui-cells.ui-search_show {
+  margin-top: 0!important;
+  overflow-y: auto;
+  position: fixed;
+  width: 100%;
+  max-height: 100%;
+
+  .weui-cell:last-child {
+    margin-bottom: 150px;
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  &::after {
+    display: none;
+  }
+}
+.ui-search-mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 90%;
+  height: 100%;
+  z-index: 5;
+}

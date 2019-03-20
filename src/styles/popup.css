@@ -1,0 +1,6 @@
+.ui-popup__toggle {
+  transform: translate(0, 0);
+}
+.weui-popup__bd{
+  background: white;
+}

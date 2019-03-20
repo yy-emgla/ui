@@ -1,0 +1,9 @@
+.weui-footer {
+  font-family: fantasy, monospace, Consolas, Monaco;
+  padding: 10px 0;
+  background-color: #f4f4f2;
+}
+
+.weui-footer .iconfont {
+  font-size: 2em;
+}

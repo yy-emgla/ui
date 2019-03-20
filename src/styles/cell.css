@@ -1,0 +1,58 @@
+@import './common/variable';
+
+.weui-cell__hd {
+  > * {
+    margin-right: 10px;
+  }
+  img {
+    display: block;
+  }
+}
+
+.ui-cell-primary {
+  flex: 1;
+}
+
+.ui-label {
+  display: block;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.weui-cell__ft .weui-loading {
+  display: block;
+}
+
+.weui-cell__ft.ui-cell-align-left {
+  text-align: left;
+}
+
+.weui-cell.ui-cell-no-border-intent:before {
+  left: 0;
+}
+
+.weui-cell_access .weui-cell__ft.ui-cell-arrow-down:after {
+  transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0) rotate(90deg);
+}
+
+.weui-cell_access .weui-cell__ft.ui-cell-arrow-up:after {
+  transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0) rotate(-90deg);
+}
+
+.ui-cell-arrow-transition:after {
+  transition: transform 300ms;
+}
+
+.ui-cell-desc {
+  font-size: 14px;
+  color: rgba(0, 0, 0, .5);
+}
+
+.ui-cell-disabled {
+  .ui-label {
+    color: #b2b2b2;
+  }
+  &.weui-cell_access .weui-cell__ft:after {
+    border-color: $cell-disabled-arrow-color;
+  }
+}

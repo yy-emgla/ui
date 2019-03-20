@@ -1,0 +1,10 @@
+.scroller-component {
+  display: block;
+  position: relative;
+  height: 238px;
+  overflow: hidden;
+  width: 100%;
+}
+.ui-picker__toggle {
+  transform: translate(0, 0);
+}

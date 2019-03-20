@@ -1,0 +1,13 @@
+build/
+config/
+dist/
+node_modules/
+static/
+test/
+src/
+circle.yml
+bower.json
+.babelrc
+docs/
+yarn.lock
+index.html

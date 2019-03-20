@@ -1,0 +1,1 @@
+{"version":3,"sources":["switch.css"],"names":[],"mappings":"AAAA,kBACE,iBAAkB,AAClB,cAAe,AACf,WAAa,CACd,AACD,uBACE,UAAW,CACZ","file":"../switch.css","sourcesContent":[".weui-cell_switch {\r\n  padding-bottom: 0;\r\n  padding-top: 0;\r\n  font-size: 0;\r\n}\r\n.weui-switch[disabled] {\r\n  opacity: .5\r\n}\r\n"]}
